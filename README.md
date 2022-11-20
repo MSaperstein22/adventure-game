@@ -60,4 +60,4 @@ Prints the things you are carrying with you.
 Prints what you can see in the room.
 
 
-To restart the game, type (start-game) and type (look) to see what is in the room. If you get stuck, tupe (win) to see a complete walkthrough of the game.
+**To restart the game, type (start-game) and type (look) to see what is in the room. If you get stuck, tupe (win) to see a complete walkthrough of the game.**
