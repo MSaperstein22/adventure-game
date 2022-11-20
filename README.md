@@ -3,6 +3,7 @@
 Welcome to my test-based adventure game. When the user first runs the game, they will see what room they are in and what things are in the room. To win the game, the user needs to execute at least two commands in the terminal. Type (help) to see a list of all possible commands. Start by playing around with some of the commands. Just remember to look around the room for some hints!!
 
 
+
 **The commands you can execute are as follows:**
 
 (flip-off thing)
@@ -58,6 +59,7 @@ Prints the things you are carrying with you.
 
 (look)
 Prints what you can see in the room.
+
 
 
 **To restart the game, type (start-game) and type (look) to see what is in the room. If you get stuck, tupe (win) to see a complete walkthrough of the game.**
