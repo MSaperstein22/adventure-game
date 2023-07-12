@@ -4,7 +4,7 @@ Welcome to my test-based adventure game. When the user first runs the game, they
 
 
 
-**The commands you can execute are as follows:**
+**Commands you can execute:**
 
 (flip-off thing)
 Flips off the lightswitch.
