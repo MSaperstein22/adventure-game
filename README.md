@@ -4,6 +4,7 @@ Welcome to my test-based adventure game. When the user first runs the game, they
 
 
 
+
 **Commands you can execute:**
 
 (flip-off thing)
@@ -59,6 +60,7 @@ Prints the things you are carrying with you.
 
 (look)
 Prints what you can see in the room.
+
 
 
 
